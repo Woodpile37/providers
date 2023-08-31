@@ -67,7 +67,7 @@
     "@types/readable-stream": "^2.3.9",
     "@typescript-eslint/eslint-plugin": "^4.28.1",
     "@typescript-eslint/parser": "^4.28.1",
-    "eslint": "^7.29.0",
+    "eslint": "^8.46.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.25.0",
     "eslint-plugin-jest": "^23.18.0",
