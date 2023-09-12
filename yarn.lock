@@ -853,10 +853,10 @@
   resolved "https://registry.yarnpkg.com/@metamask/eslint-config-typescript/-/eslint-config-typescript-12.1.0.tgz#90903bfffad51426073d6c2cb8af7b9de71aa8ca"
   integrity sha512-tKBVv1+AyQysp//Oq0bJWrtUbzPZZDt8u3FnhpOjXS7ACvQMwhzEOi5tjBDlW677mbIKDxTlx2RMfIyfIwglyA==
 
-"@metamask/eslint-config@^7.0.1":
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/@metamask/eslint-config/-/eslint-config-7.0.1.tgz#eeb87baa902965ca7931c26911d7027373706f34"
-  integrity sha512-dMZ+iyZrHdZK0D1uStTx8UN6Q6IK9YGbqPUwxgTj63M0mZOsuqs8qpGf+9Dn7uqS+8Oe9jNqejKxozjTiJvsEw==
+"@metamask/eslint-config@^12.1.0":
+  version "12.1.0"
+  resolved "https://registry.yarnpkg.com/@metamask/eslint-config/-/eslint-config-12.1.0.tgz#a3db2fcbe9083d9ee65194de1b612d981fd8ed83"
+  integrity sha512-kNzuAgRu/L8nQi5bW7nfLS78ylmW9gcTH81+zGEq9KNiOgNfg8pxCNjatYRbnOoLA57/NYKLLxbTeBMjXRscfg==
 
 "@metamask/object-multiplex@^1.1.0":
   version "1.2.0"
